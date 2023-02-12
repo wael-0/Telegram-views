@@ -1,6 +1,5 @@
 # Telegram Views
 Fake Telegram Post Views
-- https://streamable.com/xyw76h 
 
 ## Help
 
